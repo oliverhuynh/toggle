@@ -1,84 +1,33 @@
-a {
-  color: #5f657a; }
+/* CDN:
+http://scsstocss.apps.jufist.org/compiled/1528436150-5b1a15b6c13d9.css
+. Saved and compiled at http://scsstocss.apps.jufist.org/1528436150-5b1a15b6c13d9 */
+/* line 2, ../in/1528436150-5b1a15b6c13d9.scss */
+.toggle-links-dropdown-wrapper { position: relative; min-width: 30px; min-height: 30px; zoom: 1; *display: inline; display: inline-block; white-space: nowrap; }
+/* line 8, ../in/1528436150-5b1a15b6c13d9.scss */
+.toggle-links-dropdown-wrapper .toggle-links-dropdown { border: 1px solid #d3d3d3; border-radius: 4px 4px 4px 4px 4px 4px 4px 4px 4px 4px 4px 4px 4px 4px 4px 4px; -moz-border-radius: 4px 4px 4px 4px 4px 4px 4px 4px 4px 4px 4px 4px 4px 4px 4px 4px; -webkit-border-top-left-radius: 4px 4px 4px 4px; -webkit-border-top-right-radius: 4px 4px 4px 4px; -webkit-border-bottom-right-radius: 4px 4px 4px 4px; -webkit-border-bottom-left-radius: 4px 4px 4px 4px; -webkit-box-sizing: border-box; -moz-box-sizing: border-box; box-sizing: border-box; position: absolute; top: 29px; left: 0; background: #fff; display: none; z-index: 12; }
+/* line 18, ../in/1528436150-5b1a15b6c13d9.scss */
+.toggle-links-dropdown-wrapper .toggle-links-dropdown .links li { display: block; border-bottom: 1px solid #d3d3d3; padding: 0; }
+/* line 22, ../in/1528436150-5b1a15b6c13d9.scss */
+.toggle-links-dropdown-wrapper .toggle-links-dropdown .links li:last-child { border-bottom: none; }
+/* line 25, ../in/1528436150-5b1a15b6c13d9.scss */
+.toggle-links-dropdown-wrapper .toggle-links-dropdown .links li a { padding: 5px 10px; display: block; }
 
-a.button, a.button:hover {
-  text-decoration: none; }
+/* line 34, ../in/1528436150-5b1a15b6c13d9.scss */
+.views-field-nodefield div.node { position: relative; width: 100%; box-sizing: border-box; }
+/* line 42, ../in/1528436150-5b1a15b6c13d9.scss */
+.views-field-nodefield a.node-link { zoom: 1; *display: inline; display: inline-block; }
+/* line 47, ../in/1528436150-5b1a15b6c13d9.scss */
+.views-field-nodefield a.toggle-links { background: white none repeat scroll 0 0; border: 1px solid #d3d3d3; border-radius: 4px 4px 4px 4px; box-sizing: border-box; color: grey; display: inline-block; height: 30px; line-height: 30px; padding: 0; position: absolute; left: 0; text-align: center; top: 0; vertical-align: middle; width: 30px; z-index: 12; }
 
-a:active {
-  background-color: grey;
-  color: #ffffff; }
-  a:active.main-logo {
-    background-color: transparent; }
+/* line 70, ../in/1528436150-5b1a15b6c13d9.scss */
+.tr-active .sib-td-active { display: none !important; }
+/* line 73, ../in/1528436150-5b1a15b6c13d9.scss */
+.tr-active a.node-link { margin-left: 74px; margin-top: 5px; }
 
-.views-field-nodefield div.node {
-  position: relative;
-  width: 100%;
-  -moz-box-sizing: border-box;
-  -webkit-box-sizing: border-box;
-  box-sizing: border-box; }
-.views-field-nodefield a.node-link {
-  zoom: 1;
-  *display: inline;
-  display: inline-block; }
-.views-field-nodefield a.toggle-links {
-  background: white none repeat scroll 0 0;
-  border: 1px solid #d3d3d3;
-  border-radius: 4px 4px 4px 4px;
-  -moz-border-radius: 4px 4px 4px 4px;
-  -webkit-border-top-left-radius: 4px;
-  -webkit-border-top-right-radius: 4px;
-  -webkit-border-bottom-right-radius: 4px;
-  -webkit-border-bottom-left-radius: 4px;
-  box-sizing: border-box;
-  color: grey;
-  display: inline-block;
-  height: 30px;
-  line-height: 30px;
-  padding: 0;
-  position: absolute;
-  left: 0;
-  text-align: center;
-  top: 0;
-  vertical-align: middle;
-  width: 30px;
-  z-index: 12; }
-.views-field-nodefield div.links {
-  border: 1px solid #d3d3d3;
-  border-radius: 4px 4px 4px 4px;
-  -moz-border-radius: 4px 4px 4px 4px;
-  -webkit-border-top-left-radius: 4px;
-  -webkit-border-top-right-radius: 4px;
-  -webkit-border-bottom-right-radius: 4px;
-  -webkit-border-bottom-left-radius: 4px;
-  box-sizing: border-box;
-  position: absolute;
-  top: 29px;
-  left: 0;
-  background: #fff;
-  display: none;
-  z-index: 12; }
-.views-field-nodefield .links li {
-  display: block;
-  border-bottom: 1px solid #d3d3d3;
-  padding: 0; }
-  .views-field-nodefield .links li:last-child {
-    border-bottom: none; }
-  .views-field-nodefield .links li a {
-    padding: 5px 10px;
-    display: block; }
+/* line 78, ../in/1528436150-5b1a15b6c13d9.scss */
+#toggle-links-2 { left: 35px !important; }
 
-.tr-active .sib-td-active {
-  display: none !important; }
+/* line 81, ../in/1528436150-5b1a15b6c13d9.scss */
+body.mean-body-container tr.tr-active-dropdown.tr-active > td > div { min-height: 280px; }
 
-#toggle-links-2 {
-  left: 35px !important;
-}
-.tr-active a.node-link {
-  margin-left: 74px;
-  margin-top: 5px;
-}
-
-body.mean-body-container tr.tr-active-dropdown.tr-active > td > div {
-    min-height: 280px;
-}
-
+/* END. Saved and compiled at http://scsstocss.apps.jufist.org/1528436150-5b1a15b6c13d9 */
